@@ -34,8 +34,7 @@ form {
   display: flex;
   flex-direction: column;
 }
-#password,
-#email {
+input {
   border-radius: 8px;
   border: none;
   background-color: var(--text-input-field);
